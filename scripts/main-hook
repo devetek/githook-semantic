@@ -1,0 +1,4 @@
+#!/bin/sh
+
+echo "Check OS version, set it as global variable"
+echo "Validate any command with hook installer"
